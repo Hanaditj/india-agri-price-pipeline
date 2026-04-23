@@ -1,5 +1,6 @@
 # india-agri-price-pipeline
 # India Agriculture Market Price Pipeline
+https://www.kaggle.com/code/hanadithaisir/day1-eda-agri-prices-ipynb
 
 Real-time analysis of daily crop prices across 819 markets 
 and 26 states in India using government APMC data.
