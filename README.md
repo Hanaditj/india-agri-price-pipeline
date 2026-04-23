@@ -3,6 +3,12 @@
 
 Real-time analysis of daily crop prices across 819 markets 
 and 26 states in India using government APMC data.
+## Data Source
+- Platform: Kaggle
+- Dataset: Daily Market Prices (APMC)
+- Original: data.gov.in (Indian Government Open Data)
+- Updated: Daily
+- Records: 5,947 rows | 26 states | 819 markets | 205 commodities
 
 ## Key Finding — Day 1
 Arecanut price gap of ₹41,615 per quintal between 
