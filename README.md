@@ -16,9 +16,8 @@ government data.
 - **Updates:** Daily (live API fetch)
 
 ## 🔑 Key Findings
-- Arecanut farmers lose ₹41,615/quintal by selling in the 
-  wrong market on the same day
-- Karnataka (Shimoga) pays highest Arecanut prices in India
+- Identified ₹41,615/quintal price gap in Arecanut driven by both variety (Rashi fetches 3.7x more than Sippegotu) and market location
+— actionable insight for farmers on optimal variety cultivation and market selection
 - Pepper is the most expensive commodity nationally (₹65,000+/quintal)
 - Meghalaya has highest price volatility across all states
 
